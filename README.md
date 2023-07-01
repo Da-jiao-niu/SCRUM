@@ -34,7 +34,7 @@
 * Sprint —— 是Scrum中的一次迭代周期。Scrum使用Sprint表示一次的工作流程。一般来说一个Sprint持续1-4周（2周）；
 * Product Backlog —— 是待办清单或者说任务清单。清单中带有任务的优先级，列出了改进产品所需要的内容。它是Scrum团队承担工作的唯一来源；
 * Sprint Backlog (Story) —— 相较Product Backlog其更加具体。
-* ***Story point*** —— 完成目标所需的工作时间。最小单位大致为八小时工作时间。一个story(10天)一般被分为7个point。
+* ***Story point(故事点)*** —— 完成目标所需的工作时间。最小单位大致为八小时工作时间。一个story(10天)一般被分为7个point。
 
 ## 4. SCRUM工作流程
 1. 我们首先需要确定一个Product Backlog（按优先顺序排列的一个产品需求列表），这个是由Product Owner 负责的；
